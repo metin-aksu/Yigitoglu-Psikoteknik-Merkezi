@@ -8,4 +8,4 @@ Salt HTML ve CSS(Bootstrap) kullandım. Tek sayfa(SPA) üzerine kuruludur.
 
 [İnternet Sitesi : http://www.yigitoglupsikoteknik.com](http://www.yigitoglupsikoteknik.com)
 
-Yandaki görüntü cep telefonu görünümüdür.
+Yandaki görüntü mobil görünümüdür.
